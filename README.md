@@ -72,5 +72,5 @@ Possuo sólida base técnica no desenvolvimento **Backend** (Java, Spring Boot, 
 ### ✉️ Contatos & Redes
 
 * 💼 **LinkedIn:** [Paulo Augusto Siqueira](https://linkedin.com/in/paulo-augusto-siqueira-731520263/)
-* 💻 **GitHub:** [Seu Perfil no GitHub](https://github.com/)
+* 💻 **GitHub:** [https://github.com/PauloAugSiqueira)
 * ✉️ **E-mail:** pauloaugustsiq@gmail.com
