@@ -67,6 +67,13 @@ Possuo sólida base técnica no desenvolvimento **Backend** (Java, Spring Boot, 
 * **Descrição:** Colaboração em repositório de desenvolvimento de software focado em boas práticas, padrões de projeto e versionamento.
 * **Tecnologias:** Git, Java.
 
+#### 🔹 [Nexus — Sistema de Retaguarda (Back-end)](#)
+* **Tipo:** Projeto Acadêmico/Corporativo (Parceria FIAP & Grupo Águia Branca)
+* **Foco:** Arquitetura Limpa, Segurança (JWT) e Regras de Negócio Complexas
+* **Descrição:** Desenvolvimento do back-end de um ecossistema de inovação para sustentar a lógica de negócios, motor de pontuação, gamificação e auditoria.
+* **Tecnologias:** Java 17, Spring Boot 3, MongoDB, Spring Security (JWT), OpenAPI.
+
+
 ---
 
 ### ✉️ Contatos & Redes
