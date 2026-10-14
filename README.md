@@ -1,4 +1,4 @@
-# Olá, eu sou o Paulo Siqueira! 👋
+# Olá. Tudo bem ? Eu sou o Paulo Siqueira! 👋
 
 ### 🚀 Desenvolvedor Full Stack Junior | FIAP
 📍 **Boituva / SP — Brasil**
@@ -74,3 +74,4 @@ Possuo sólida base técnica no desenvolvimento **Backend** (Java, Spring Boot, 
 * 💼 **LinkedIn:** [Paulo Augusto Siqueira](https://linkedin.com/in/paulo-augusto-siqueira-731520263/)
 * 💻 **GitHub:** [https://github.com/PauloAugSiqueira)
 * ✉️ **E-mail:** pauloaugustsiq@gmail.com
+* 📄 **Notion Portfólio:** https://charming-cupboard-8cb.notion.site/Portf-lio-Paulo-Siqueira-Software-Developer-3f99ec9f3860809f916bc11248c56ca1?source=copy_link
