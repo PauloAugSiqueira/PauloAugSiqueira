@@ -62,12 +62,13 @@ Possuo sólida base técnica no desenvolvimento **Backend** (Java, Spring Boot, 
 * **Descrição:** Desenvolvimento completo da arquitetura de dados para um sistema voltado à gestão, rastreabilidade e destinação adequada de resíduos recicláveis em conformidade com as diretrizes ESG.
 * **Tecnologias:** Oracle SQL (PL/SQL), Oracle SQL Developer Data Modeler, MER.
 
-#### 🔹 [NexusAguia](#)
-* **Tipo:** Projeto Colaborativo (Equipe)
-* **Descrição:** Colaboração em repositório de desenvolvimento de software focado em boas práticas, padrões de projeto e versionamento.
-* **Tecnologias:** Git, Java.
+###🔹 [NexusÁguia (Front-end)]
+* **Tipo:** Projeto Acadêmico/Corporativo (Challenge FIAP & Grupo Águia Branca)
+* **Foco:** Desenvolvimento Mobile Nativo, Arquitetura MVVM e Gamificação Corporativa
+* **Descrição:** Desenvolvimento de uma plataforma corporativa de inovação interna em Kotlin para Android, conectando operadores, gestores e liderança por meio de um funil estratégico de ideias, projetos e dashboards executivos.
+* **Tecnologias:** Kotlin, Android Studio, Jetpack Compose, Material Design 3, Navigation Compose, ViewModel, API REST, Arquitetura em Camadas.
 
-#### 🔹 [Nexus — Sistema de Retaguarda (Back-end)](#)
+#### 🔹 [Nexus — Sistema de Retaguarda (Back-end)]
 * **Tipo:** Projeto Acadêmico/Corporativo (Parceria FIAP & Grupo Águia Branca)
 * **Foco:** Arquitetura Limpa, Segurança (JWT) e Regras de Negócio Complexas
 * **Descrição:** Desenvolvimento do back-end de um ecossistema de inovação para sustentar a lógica de negócios, motor de pontuação, gamificação e auditoria.
